@@ -3,6 +3,9 @@ kind: Component
 metadata:
   name: feedback-pulgin-demo
   description: Feedback pluging demo file
+  annotations:
+    feedback/type: 'MAIL'
+    feedback/email-to: 'padmapriyavedagiri.nagarajan.ext@bayer.com'
    
 spec:
   type: service
