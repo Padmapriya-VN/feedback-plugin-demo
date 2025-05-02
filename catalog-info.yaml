@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: feedback-pulgin-demo
+  annotations:
+    feedback/type: 'MAIL'
+    feedback/email-to: padmapriyavedagiri.nagarajan.ext@bayer.com
+    
+spec:
+  type: service
+  lifecycle: production
+  owner: User:default/padmapriyavedagiri.nagarajan.ext
+  
