@@ -10,5 +10,5 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: User:default/padmapriyavedagiri.nagarajan.ext
+  owner: User:default/padmapriya-vn
   
