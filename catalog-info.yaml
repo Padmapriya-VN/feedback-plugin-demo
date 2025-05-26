@@ -5,7 +5,7 @@ metadata:
   description: Feedback pluging demo file
    
 spec:
-  type: service
+  type: website
   lifecycle: production
   owner: User:default/padmapriyavedagiri.nagarajan.ext
   
