@@ -1,0 +1,8 @@
+Hello World!
+
+This file was created using a Backstage template.
+
+Values:
+parameters.projectName -> values.projectName : 
+parameters.description -> values.description : 
+(parameters.repoUrl | parseRepoUrl)['repo'] -> values.repoName : feedback-plugin-demo
